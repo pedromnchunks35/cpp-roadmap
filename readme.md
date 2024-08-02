@@ -1,5 +1,5 @@
 # C++ Interview Preparation Roadmap
-## Core Data Structures (Arrays and Strings)
+## 1. Core Data Structures (Arrays and Strings) [Here](./1/)
 - Basic manipulation (insertion, deletion, rotation)
 - Common algorithms (reverse, palindrome, anagram)
 - Practice problems
