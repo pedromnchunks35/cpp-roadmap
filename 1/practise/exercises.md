@@ -19,16 +19,16 @@
 ## Basic String Operations
 - Count Vowels: Write a function to count the number of vowels in a string. [program](./vowels-string-count.cpp)
 - Reverse a String: Write a function to reverse a given string. [program](./revertString.cpp)
-- Check Palindrome: Write a function to check if a string is a palindrome.
+- Check Palindrome: Write a function to check if a string is a palindrome.[program](./palindrome-string.cpp)
 ## String Manipulation
-- String to Integer: Implement a function to convert a string to an integer (like std::stoi).
-- Substring Search: Write a function to find if a substring exists in a given string.
-- Remove Whitespace: Write a function to remove all whitespaces from a string.
+- String to Integer: Implement a function to convert a string to an integer (like std::stoi). [program](./convert-string-to-integer.cpp)
+- Substring Search: Write a function to find if a substring exists in a given string. [program](./find-substring.cpp)
+- Remove Whitespace: Write a function to remove all whitespaces from a string. [program](./remove-white-space.cpp)
 ## String Algorithms
-- Longest Common Prefix: Write a function to find the longest common prefix string among an array of strings.
-- String Compression: Write a function to perform basic string compression using the counts of repeated characters.
-- Anagram Check: Write a function to check if two strings are anagrams of each other.
+- Longest Common Prefix: Write a function to find the longest common prefix string among an array of strings. [program](./find-longest-common-string.cpp)
+- String Compression: Write a function to perform basic string compression using the counts of repeated characters. [program](./comprense-strings.cpp)
+- Anagram Check: Write a function to check if two strings are anagrams of each other. [program](./check-if-anagram.cpp)
 ## Advanced String Problems
-- Longest Substring Without Repeating Characters: Write a function to find the length of the longest substring without repeating characters.
-- Edit Distance: Implement the edit distance algorithm to find the minimum number of operations required to convert one string into another.
-- Substring with Concatenation of All Words: Given a string and a list of words, find all starting indices of substring(s) in the given string that is a concatenation of each word in the list exactly once and without any intervening characters.
+- Longest Substring Without Repeating Characters: Write a function to find the length of the longest substring without repeating characters.[program](./find-longest-without-repeat.cpp)
+- Edit Distance: Implement the edit distance algorithm to find the minimum number of operations required to convert one string into another.[program](./edit-distance-minimum-number-operations-to-convert-string.cpp)
+- Substring with Concatenation of All Words: Given a string and a list of words, find all starting indices of substring(s) in the given string that is a concatenation of each word in the list exactly once and without any intervening characters.[program](./substring-with-concatenation-operations.cpp)

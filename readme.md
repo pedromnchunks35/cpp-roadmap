@@ -1,5 +1,5 @@
 # C++ Interview Preparation Roadmap
-## 1. Core Data Structures (Arrays and Strings) [Here](./1/)
+## 1. Core Data Structures (Arrays and Strings) [Here](./1/) `DONE`
 - Basic manipulation (insertion, deletion, rotation)
 - Common algorithms (reverse, palindrome, anagram)
 - Practice problems
@@ -28,9 +28,9 @@
 - Practice problems
 ## Algorithms
 - Sorting and Searching
-    - Implement sorting algorithms (bubble sort, quicksort, mergesort)
-    - Implement binary search and variants
-    - Practice problems
+- Implement sorting algorithms (bubble sort, quicksort, mergesort)
+- Implement binary search and variants
+- Practice problems
 ## Recursion and Dynamic Programming
 - Basic recursion (factorial, Fibonacci)
 - Dynamic programming (knapsack, longest common subsequence)
