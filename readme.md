@@ -3,7 +3,7 @@
 - Basic manipulation (insertion, deletion, rotation)
 - Common algorithms (reverse, palindrome, anagram)
 - Practice problems
-## Linked Lists
+## 2. Linked Lists [Here](./2/) `On progress`
 - Implement singly, doubly, and circular linked lists
 - Operations: insertion, deletion, reversal, detecting cycles
 - Practice problems
