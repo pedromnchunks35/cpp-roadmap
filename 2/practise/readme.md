@@ -2,9 +2,9 @@
 ## 1. Search in Linked Lists: [IMPLEMENTATION](./search-in-linked-lists)
 - Implement a function that searches for a specific value in a singly linked list, doubly linked list, and circular linked list. The function should return a pointer to the node containing the value, or nullptr if the value is not found. [Linked List](./search-in-linked-lists/linkedList.cpp)
 ## Count Nodes:
-- Create a function that counts the number of nodes in each type of linked list (singly, doubly, circular).
+- Create a function that counts the number of nodes in each type of linked list (singly, doubly, circular). [Count Nodes](./countNodes/)
 ## Find Middle Node:
-- Implement a function to find the middle node of a singly linked list. If the list has an even number of nodes, return the first of the two middle nodes.
+- Implement a function to find the middle node of a singly linked list. If the list has an even number of nodes, return the first of the two middle nodes. [find middle](./findMiddle)
 ## Reverse the List:
 - Write a function that reverses a singly linked list. Try to do this iteratively and then attempt a recursive solution.
 # Intermediate Exercises
